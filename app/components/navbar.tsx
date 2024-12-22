@@ -8,7 +8,7 @@ const Navbar = () => {
             <Image src = '/azuki_logo.svg' alt='azuki logo' height={10} width={100}></Image>
         </div>
 
-        <div className='w-[40%] text-[14px] text-black font-semibold text-white'>
+        <div className='w-[40%] text-[14px] font-semibold text-white'>
             <ul className='uppercase flex items-center justify-between'>
                 <li>About</li>
                 <li>Beanz</li>
